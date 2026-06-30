@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/subd02/Leet-journey/tree/master/0151-reverse-words-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/subd02/Leet-journey/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/subd02/Leet-journey/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/subd02/Leet-journey/tree/master/0567-permutation-in-string) |
 | [1768-merge-strings-alternately](https://github.com/subd02/Leet-journey/tree/master/1768-merge-strings-alternately) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/subd02/Leet-journey/tree/master/0033-search-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/subd02/Leet-journey/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/subd02/Leet-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/subd02/Leet-journey/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/subd02/Leet-journey/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -46,10 +48,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/subd02/Leet-journey/tree/master/0033-search-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/subd02/Leet-journey/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/subd02/Leet-journey/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/subd02/Leet-journey/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/subd02/Leet-journey/tree/master/0560-subarray-sum-equals-k) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/subd02/Leet-journey/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
