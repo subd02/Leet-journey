@@ -1,19 +1,19 @@
 class Solution {
     public int singleNonDuplicate(int[] nums) {
-        int si=0;
-        int ei= nums.length-1;
+        int si=1;
         int n= nums.length;
+        int ei= n-2;
         if(nums.length==1){
             return nums[0];
         }
+        if(nums[0]!=nums[1]){
+            return nums[0];
+        }
+        if(nums[n-1]!=nums[n-2]){
+            return nums[n-1];
+        }
         while(si<=ei){
             int mid= si + (ei-si) /2;
-            if(mid==0 && nums[0]!=nums[1]){
-                return nums[mid];
-            }
-            if(mid==ei && nums[n-1]!=nums[n-2]){
-                return nums[mid];
-            }
             if(nums[mid]!=nums[mid-1] && nums[mid]!=nums[mid+1]){
                 return nums[mid];
             }
