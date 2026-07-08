@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/subd02/Leet-journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/subd02/Leet-journey/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/subd02/Leet-journey/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/subd02/Leet-journey/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/subd02/Leet-journey/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/subd02/Leet-journey/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/subd02/Leet-journey/tree/master/0567-permutation-in-string) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/subd02/Leet-journey/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/subd02/Leet-journey/tree/master/0234-palindrome-linked-list) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/subd02/Leet-journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/subd02/Leet-journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/subd02/Leet-journey/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/subd02/Leet-journey/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/subd02/Leet-journey/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/subd02/Leet-journey/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
@@ -98,4 +101,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/subd02/Leet-journey/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/subd02/Leet-journey/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/subd02/Leet-journey/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/subd02/Leet-journey/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
