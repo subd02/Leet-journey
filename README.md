@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/subd02/Leet-journey/tree/master/0042-trapping-rain-water) |
+| [0232-implement-queue-using-stacks](https://github.com/subd02/Leet-journey/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/subd02/Leet-journey/tree/master/0234-palindrome-linked-list) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/subd02/Leet-journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -139,4 +140,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/subd02/Leet-journey/tree/master/0912-sort-an-array) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/subd02/Leet-journey/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/subd02/Leet-journey/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
