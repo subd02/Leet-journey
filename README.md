@@ -171,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/subd02/Leet-journey/tree/master/1392-longest-happy-prefix) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/subd02/Leet-journey/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
