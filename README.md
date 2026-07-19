@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/subd02/Leet-journey/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/subd02/Leet-journey/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/subd02/Leet-journey/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/subd02/Leet-journey/tree/master/0567-permutation-in-string) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/subd02/Leet-journey/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/subd02/Leet-journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/subd02/Leet-journey/tree/master/0142-linked-list-cycle-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/subd02/Leet-journey/tree/master/0560-subarray-sum-equals-k) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/subd02/Leet-journey/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/subd02/Leet-journey/tree/master/0567-permutation-in-string) |
 ## Array
 |  |
