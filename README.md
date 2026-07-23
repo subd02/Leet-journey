@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/subd02/Leet-journey/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/subd02/Leet-journey/tree/master/0151-reverse-words-in-a-string) |
+| [0389-find-the-difference](https://github.com/subd02/Leet-journey/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/subd02/Leet-journey/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/subd02/Leet-journey/tree/master/0567-permutation-in-string) |
 | [1392-longest-happy-prefix](https://github.com/subd02/Leet-journey/tree/master/1392-longest-happy-prefix) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/subd02/Leet-journey/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/subd02/Leet-journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/subd02/Leet-journey/tree/master/0142-linked-list-cycle-ii) |
+| [0389-find-the-difference](https://github.com/subd02/Leet-journey/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/subd02/Leet-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/subd02/Leet-journey/tree/master/0567-permutation-in-string) |
 ## Sliding Window
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/subd02/Leet-journey/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/subd02/Leet-journey/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/subd02/Leet-journey/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/subd02/Leet-journey/tree/master/0389-find-the-difference) |
 ## Matrix
 |  |
 | ------- |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/subd02/Leet-journey/tree/master/0389-find-the-difference) |
 | [0912-sort-an-array](https://github.com/subd02/Leet-journey/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
