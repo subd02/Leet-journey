@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/subd02/Leet-journey/tree/master/0054-spiral-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/subd02/Leet-journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2073-time-needed-to-buy-tickets](https://github.com/subd02/Leet-journey/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/subd02/Leet-journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/subd02/Leet-journey/tree/master/0912-sort-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/subd02/Leet-journey/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2073-time-needed-to-buy-tickets](https://github.com/subd02/Leet-journey/tree/master/2073-time-needed-to-buy-tickets) |
 ## Binary Search
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/subd02/Leet-journey/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/subd02/Leet-journey/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/subd02/Leet-journey/tree/master/0387-first-unique-character-in-a-string) |
+| [2073-time-needed-to-buy-tickets](https://github.com/subd02/Leet-journey/tree/master/2073-time-needed-to-buy-tickets) |
 ## Backtracking
 |  |
 | ------- |
