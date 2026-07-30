@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-longest-happy-prefix](https://github.com/subd02/Leet-journey/tree/master/1392-longest-happy-prefix) |
 | [1768-merge-strings-alternately](https://github.com/subd02/Leet-journey/tree/master/1768-merge-strings-alternately) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/subd02/Leet-journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/subd02/Leet-journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/subd02/Leet-journey/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/subd02/Leet-journey/tree/master/0231-power-of-two) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/subd02/Leet-journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
 |  |
 | ------- |
@@ -217,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/subd02/Leet-journey/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/subd02/Leet-journey/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/subd02/Leet-journey/tree/master/1757-recyclable-and-low-fat-products) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/subd02/Leet-journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
