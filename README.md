@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/subd02/Leet-journey/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/subd02/Leet-journey/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/subd02/Leet-journey/tree/master/0084-largest-rectangle-in-histogram) |
+| [0134-gas-station](https://github.com/subd02/Leet-journey/tree/master/0134-gas-station) |
 | [0240-search-a-2d-matrix-ii](https://github.com/subd02/Leet-journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/subd02/Leet-journey/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/subd02/Leet-journey/tree/master/0496-next-greater-element-i) |
@@ -226,5 +227,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/subd02/Leet-journey/tree/master/0134-gas-station) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/subd02/Leet-journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
