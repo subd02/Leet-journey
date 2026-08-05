@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/subd02/Leet-journey/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/subd02/Leet-journey/tree/master/0076-minimum-window-substring) |
+| [0131-palindrome-partitioning](https://github.com/subd02/Leet-journey/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/subd02/Leet-journey/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/subd02/Leet-journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/subd02/Leet-journey/tree/master/0389-find-the-difference) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/subd02/Leet-journey/tree/master/0042-trapping-rain-water) |
+| [0131-palindrome-partitioning](https://github.com/subd02/Leet-journey/tree/master/0131-palindrome-partitioning) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/subd02/Leet-journey/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/subd02/Leet-journey/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/subd02/Leet-journey/tree/master/0131-palindrome-partitioning) |
 ## Rolling Hash
 |  |
 | ------- |
