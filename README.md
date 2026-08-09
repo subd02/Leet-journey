@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/subd02/Leet-journey/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/subd02/Leet-journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/subd02/Leet-journey/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/subd02/Leet-journey/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/subd02/Leet-journey/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/subd02/Leet-journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/subd02/Leet-journey/tree/master/0912-sort-an-array) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/subd02/Leet-journey/tree/master/0134-gas-station) |
+| [0605-can-place-flowers](https://github.com/subd02/Leet-journey/tree/master/0605-can-place-flowers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/subd02/Leet-journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Depth-First Search
 |  |
