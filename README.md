@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/subd02/Leet-journey/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/subd02/Leet-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/subd02/Leet-journey/tree/master/0567-permutation-in-string) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/subd02/Leet-journey/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Sliding Window
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/subd02/Leet-journey/tree/master/0912-sort-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/subd02/Leet-journey/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2073-time-needed-to-buy-tickets](https://github.com/subd02/Leet-journey/tree/master/2073-time-needed-to-buy-tickets) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/subd02/Leet-journey/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Binary Search
 |  |
 | ------- |
