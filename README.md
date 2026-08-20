@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/subd02/Leet-journey/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/subd02/Leet-journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/subd02/Leet-journey/tree/master/0142-linked-list-cycle-ii) |
+| [0268-missing-number](https://github.com/subd02/Leet-journey/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/subd02/Leet-journey/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/subd02/Leet-journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/subd02/Leet-journey/tree/master/0389-find-the-difference) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/subd02/Leet-journey/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/subd02/Leet-journey/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/subd02/Leet-journey/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/subd02/Leet-journey/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/subd02/Leet-journey/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/subd02/Leet-journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/subd02/Leet-journey/tree/master/0503-next-greater-element-ii) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/subd02/Leet-journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/subd02/Leet-journey/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/subd02/Leet-journey/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/subd02/Leet-journey/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/subd02/Leet-journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/subd02/Leet-journey/tree/master/0704-binary-search) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/subd02/Leet-journey/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/subd02/Leet-journey/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/subd02/Leet-journey/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/subd02/Leet-journey/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/subd02/Leet-journey/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/subd02/Leet-journey/tree/master/0389-find-the-difference) |
 ## Matrix
@@ -168,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/subd02/Leet-journey/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/subd02/Leet-journey/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/subd02/Leet-journey/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/subd02/Leet-journey/tree/master/0268-missing-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/subd02/Leet-journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
 |  |
@@ -186,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/subd02/Leet-journey/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/subd02/Leet-journey/tree/master/0389-find-the-difference) |
 | [0912-sort-an-array](https://github.com/subd02/Leet-journey/tree/master/0912-sort-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/subd02/Leet-journey/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
