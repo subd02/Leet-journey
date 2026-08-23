@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/subd02/Leet-journey/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/subd02/Leet-journey/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/subd02/Leet-journey/tree/master/0084-largest-rectangle-in-histogram) |
+| [0118-pascals-triangle](https://github.com/subd02/Leet-journey/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/subd02/Leet-journey/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/subd02/Leet-journey/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/subd02/Leet-journey/tree/master/0240-search-a-2d-matrix-ii) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/subd02/Leet-journey/tree/master/0042-trapping-rain-water) |
+| [0118-pascals-triangle](https://github.com/subd02/Leet-journey/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/subd02/Leet-journey/tree/master/0131-palindrome-partitioning) |
 ## Monotonic Stack
 |  |
