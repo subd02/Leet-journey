@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/subd02/Leet-journey/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/subd02/Leet-journey/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/subd02/Leet-journey/tree/master/0268-missing-number) |
+| [2235-add-two-integers](https://github.com/subd02/Leet-journey/tree/master/2235-add-two-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/subd02/Leet-journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/subd02/Leet-journey/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
