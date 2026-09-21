@@ -7,9 +7,15 @@ class Solution {
             if(s.charAt(strack)==t.charAt(ttrack)){
                 count++;
                 strack++;
+                ttrack++;
+            }else{
+                ttrack++;
             }
-            ttrack++;
+            
         }
-        return count==s.length();
+        if(s.length()==count){
+            return true;
+        }
+        return false;
     }
 }
