@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/subd02/Leet-journey/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/subd02/Leet-journey/tree/master/0567-permutation-in-string) |
 | [0856-score-of-parentheses](https://github.com/subd02/Leet-journey/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/subd02/Leet-journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1392-longest-happy-prefix](https://github.com/subd02/Leet-journey/tree/master/1392-longest-happy-prefix) |
 | [1768-merge-strings-alternately](https://github.com/subd02/Leet-journey/tree/master/1768-merge-strings-alternately) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/subd02/Leet-journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/subd02/Leet-journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/subd02/Leet-journey/tree/master/0503-next-greater-element-ii) |
 | [0856-score-of-parentheses](https://github.com/subd02/Leet-journey/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/subd02/Leet-journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/subd02/Leet-journey/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/subd02/Leet-journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/subd02/Leet-journey/tree/master/0134-gas-station) |
 | [0605-can-place-flowers](https://github.com/subd02/Leet-journey/tree/master/0605-can-place-flowers) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/subd02/Leet-journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/subd02/Leet-journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/subd02/Leet-journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Depth-First Search
@@ -402,4 +405,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/subd02/Leet-journey/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/subd02/Leet-journey/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/subd02/Leet-journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
