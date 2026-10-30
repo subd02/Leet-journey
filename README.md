@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/subd02/Leet-journey/tree/master/0234-palindrome-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/subd02/Leet-journey/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/subd02/Leet-journey/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/subd02/Leet-journey/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/subd02/Leet-journey/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Dynamic Programming
 |  |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/subd02/Leet-journey/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/subd02/Leet-journey/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/subd02/Leet-journey/tree/master/0412-fizz-buzz) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/subd02/Leet-journey/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2235-add-two-integers](https://github.com/subd02/Leet-journey/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/subd02/Leet-journey/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/subd02/Leet-journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
