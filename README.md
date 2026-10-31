@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/subd02/Leet-journey/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/subd02/Leet-journey/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/subd02/Leet-journey/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/subd02/Leet-journey/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/subd02/Leet-journey/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/subd02/Leet-journey/tree/master/0412-fizz-buzz) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/subd02/Leet-journey/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -422,4 +423,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/subd02/Leet-journey/tree/master/0173-binary-search-tree-iterator) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/subd02/Leet-journey/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/subd02/Leet-journey/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/subd02/Leet-journey/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/subd02/Leet-journey/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/subd02/Leet-journey/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
