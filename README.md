@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/subd02/Leet-journey/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/subd02/Leet-journey/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/subd02/Leet-journey/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/subd02/Leet-journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/subd02/Leet-journey/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/subd02/Leet-journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/subd02/Leet-journey/tree/master/0912-sort-an-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/subd02/Leet-journey/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/subd02/Leet-journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/subd02/Leet-journey/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/subd02/Leet-journey/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2073-time-needed-to-buy-tickets](https://github.com/subd02/Leet-journey/tree/master/2073-time-needed-to-buy-tickets) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/subd02/Leet-journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/subd02/Leet-journey/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/subd02/Leet-journey/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/subd02/Leet-journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/subd02/Leet-journey/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/subd02/Leet-journey/tree/master/0389-find-the-difference) |
 | [0912-sort-an-array](https://github.com/subd02/Leet-journey/tree/master/0912-sort-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/subd02/Leet-journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/subd02/Leet-journey/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Heap (Priority Queue)
 |  |
