@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/subd02/Leet-journey/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/subd02/Leet-journey/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/subd02/Leet-journey/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/subd02/Leet-journey/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/subd02/Leet-journey/tree/master/0392-is-subsequence) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/subd02/Leet-journey/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/subd02/Leet-journey/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/subd02/Leet-journey/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/subd02/Leet-journey/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/subd02/Leet-journey/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/subd02/Leet-journey/tree/master/0268-missing-number) |
@@ -456,4 +458,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/subd02/Leet-journey/tree/master/0292-nim-game) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/subd02/Leet-journey/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
