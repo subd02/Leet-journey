@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/subd02/Leet-journey/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/subd02/Leet-journey/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/subd02/Leet-journey/tree/master/3876-construct-uniform-parity-array-ii) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/subd02/Leet-journey/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/subd02/Leet-journey/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/subd02/Leet-journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/subd02/Leet-journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/subd02/Leet-journey/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/subd02/Leet-journey/tree/master/0912-sort-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/subd02/Leet-journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/subd02/Leet-journey/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/subd02/Leet-journey/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -462,4 +465,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/subd02/Leet-journey/tree/master/0070-climbing-stairs) |
+## Enumeration
+|  |
+| ------- |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/subd02/Leet-journey/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 <!---LeetCode Topics End-->
