@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-longest-happy-prefix](https://github.com/subd02/Leet-journey/tree/master/1392-longest-happy-prefix) |
 | [1768-merge-strings-alternately](https://github.com/subd02/Leet-journey/tree/master/1768-merge-strings-alternately) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/subd02/Leet-journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/subd02/Leet-journey/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/subd02/Leet-journey/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/subd02/Leet-journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3110-score-of-a-string](https://github.com/subd02/Leet-journey/tree/master/3110-score-of-a-string) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/subd02/Leet-journey/tree/master/0412-fizz-buzz) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/subd02/Leet-journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2073-time-needed-to-buy-tickets](https://github.com/subd02/Leet-journey/tree/master/2073-time-needed-to-buy-tickets) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/subd02/Leet-journey/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/subd02/Leet-journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/subd02/Leet-journey/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
