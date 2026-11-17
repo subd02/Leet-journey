@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/subd02/Leet-journey/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/subd02/Leet-journey/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/subd02/Leet-journey/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3978-unique-middle-element](https://github.com/subd02/Leet-journey/tree/master/3978-unique-middle-element) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/subd02/Leet-journey/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/subd02/Leet-journey/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/subd02/Leet-journey/tree/master/4061-minimum-queen-moves-to-reach-target) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/subd02/Leet-journey/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/subd02/Leet-journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/subd02/Leet-journey/tree/master/0912-sort-an-array) |
+| [3978-unique-middle-element](https://github.com/subd02/Leet-journey/tree/master/3978-unique-middle-element) |
 ## Design
 |  |
 | ------- |
